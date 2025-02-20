@@ -10,7 +10,7 @@ Ensure the online shopping experience is simple and accessible for older custome
 Enhance High-Value Customer Retention
 
 Since a small group of customers make high-value purchases, implement VIP memberships, premium offerings, and personalized services to encourage repeat spending.
-Encourage bulk purchases by offering discounts at spending thresholds ($500, $1000).
+Encourage bulk purchases by offering discounts at spending thresholds (500, 1000).
 Optimize Product Strategies
 
 Clothing, Electronics, and Beauty all generate significant revenue, so maintaining a balanced inventory across these categories is crucial.
@@ -21,7 +21,7 @@ Female shoppers dominate spending, especially in Beauty; consider exclusive prod
 Men are more inclined towards Electronics, so targeting them with tech deals, discounts, or gadget bundles could boost sales.
 Expand Mid-Range Price Offerings
 
-The most popular price points are $25, $30, $50, $300, and $500.
+The most popular price points are 25, 30, 50, 300, and 500.
 Consider launching more mid-range products within these price ranges, as they match customers' preferred spending habits.
 Improve Customer Retention Strategies
 
